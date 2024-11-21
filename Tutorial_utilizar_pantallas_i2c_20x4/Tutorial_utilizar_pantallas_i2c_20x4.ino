@@ -1,11 +1,7 @@
 /*
-Codigo realizado por Salvador Ruiz Sedeño el 27-9-2014 
 
-Mas info en: http://www.frostcode.es/
 
 Codigo para aprender a utilizar una pantarra lcd mediate i2c.
-Puedes ver el Tutorial en vídeo en Youtube:http://youtu.be/4mTRnRwDnF8
-
 */
 
 //Pantalla 20x4 
